@@ -3,8 +3,8 @@
 
     Estou cursando no Instituto Federal da Paraíba, Análise e Desenvolvimento de Sistemas.👨🏻‍💻
 #
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-silva-894701281/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caio.silvaalves2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-silva-894701281)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.silvaalves2002@gmail.com)
 
 ![Caio Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaioAlves&show_icons=true&theme=transparent&locale=pt-br)
 [![Link](https://media.tenor.com/8SwMyK5qUE4AAAAj/zelda-totk.gif)]()
