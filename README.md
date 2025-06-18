@@ -2,7 +2,7 @@
 
     Estou cursando no Instituto Federal da Paraíba, Análise e Desenvolvimento de Sistemas.👨🏻‍💻
 #
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-da-silva-alves-894701281)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-da-silva-alves-894701281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.silvaalves2002@gmail.com)
 
 ![Caio Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaioAlves&show_icons=true&theme=transparent&locale=pt-br)
