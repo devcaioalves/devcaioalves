@@ -11,7 +11,7 @@
 #
 
 ### Tecnologias que uso.💻⚙️
-[![My Skills](https://skillicons.dev/icons?i=java,py,eclipse,idea,pycharm,vscode,hibernate,maven,mysql,postgres,git,github,windows&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,eclipse,idea,pycharm,vscode,hibernate,postman,spring,maven,mysql,sqlite,postgres,git,github,windows&theme=dark)](https://skillicons.dev)
 
 
 [![Link](https://camo.githubusercontent.com/bb751c64d9a7d764a4f97f3ac66d6873be83aa7333aa142df19cb75a851959cf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f59524d62366464377a70725330304a64475a2f67697068792e676966)]()
