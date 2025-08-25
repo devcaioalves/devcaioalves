@@ -1,16 +1,15 @@
-### Olá, eu sou o Caio Alves!👾👋
-
-    Estou cursando no Instituto Federal da Paraíba, Análise e Desenvolvimento de Sistemas.👨🏻‍💻
+### Hello, I'm Caio Alves!👾👋
+Systems Analysis and Development at IFPB.👨🏻‍💻
 #
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-da-silva-alves-894701281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio.silvaalves2002@gmail.com)
 
-![Caio Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaioAlves&show_icons=true&theme=transparent&locale=pt-br)
+![Caio Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaioAlves&show_icons=true&theme=transparent&locale=en)
 
 
 #
 
-### Tecnologias que uso.💻⚙️
+### Technologies.💻⚙️
 [![My Skills](https://skillicons.dev/icons?i=java,py,eclipse,idea,pycharm,vscode,hibernate,postman,spring,maven,mongodb,mysql,sqlite,postgres,git,github,windows,docker&theme=dark)](https://skillicons.dev)
 
 
